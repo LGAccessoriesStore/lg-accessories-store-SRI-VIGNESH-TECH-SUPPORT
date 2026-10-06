@@ -1,2 +1,2 @@
-# lg-accessories-store
+# SRI VIGNESH TECH SUPPORT
 LG Accessories Store - React + Flask
