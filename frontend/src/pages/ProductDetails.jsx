@@ -154,7 +154,7 @@ const productImages = {
 
               <div className="flex flex-col md:flex-row justify-center items-center gap-4">
                 <a
-                  href={`https://wa.me/+918074856866?text=Hi, I want to order ${product.name}`}
+                  href={`https://wa.me/+918008962233?text=Hi, I want to order ${product.name}`}
                   target="_blank"
                   rel="noreferrer"
                   className="bg-green-600 text-white px-6 py-3 rounded-lg"
@@ -163,7 +163,7 @@ const productImages = {
                 </a>
 
                 <a
-    href="tel:+918074856866"
+    href="tel:+918008962233"
     className="bg-blue-600 text-white px-6 py-3 rounded-lg"
   >
     📞 Call To Order

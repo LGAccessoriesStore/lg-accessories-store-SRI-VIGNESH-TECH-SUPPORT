@@ -90,13 +90,13 @@ const productImages = {
       </h1>
 
       <p className="text-xs md:text-sm mt-2 text-white/70">
-        AJ Enterprises | Authorized LG Service Center
+        SRI VIGNESH TECH SUPPORT
       </p>
     </div>
 
     <div className="hidden md:flex gap-10 text-lg">
       <a
-        href="tel:+918074856866"
+        href="tel:+91"
         className="cursor-pointer hover:text-gray-200"
       >
         CONTACT
